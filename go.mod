@@ -5,6 +5,7 @@ go 1.21.5
 require (
 	github.com/go-chi/chi/v5 v5.0.11
 	github.com/stretchr/testify v1.8.4
+	github.com/tysonmote/gommap v0.0.2
 	google.golang.org/protobuf v1.32.0
 )
 
